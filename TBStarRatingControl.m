@@ -2,7 +2,7 @@
 //  StarRatingView.m
 //  StarRating
 //
-//  Created by David Linsin on 1/4/11.
+//  Created by Frank on 1/4/11.
 //
 
 #import "TBStarRatingControl.h"
